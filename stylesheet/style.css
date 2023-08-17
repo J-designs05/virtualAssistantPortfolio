@@ -511,4 +511,18 @@ h2{
     .h-captcha{
         margin: 0 auto;
     }
+    #blogPage{
+        width: 90%;
+        margin: 0 auto;
+    }
+    #blogPlaceimg{
+        width: 100%;
+        margin: 30px auto;
+        height:200px;
+        text-align: center;
+    }
+    #blogPlaceimg img{
+        width: 80%;
+        height: 100%;
+    }
 }
