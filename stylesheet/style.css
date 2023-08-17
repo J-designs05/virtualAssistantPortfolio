@@ -307,6 +307,39 @@ h2{
 #navIcon{
     display: none;
 }
+#blogPage{
+    width: 60%;
+    margin: 0 auto;
+}
+#blogPlaceimg{
+    width: 80%;
+    margin: 30px auto;
+    height:200px;
+    text-align: center;
+}
+#blogPlaceimg img{
+    width: 80%;
+    height: 100%;
+}
+.blogHeader3{
+    margin: 30px 0 15px 0;
+}
+.blogHeader{
+    margin: 10px 0;
+}
+.blogText{
+    line-height: 25px;
+}
+.lastPara{
+    margin: 30px 0 50px 0;
+}
+.break{
+    margin-top: 20px;
+}
+.blogList{
+    padding: 5px 0;
+}
+
 @media screen and (max-width:1000px){
     #nav{
         display: none;
